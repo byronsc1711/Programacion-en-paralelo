@@ -1,2 +1,2 @@
 # Programacion-en-paralelo
-Creación de la clase persona y empresa. Uso de la programación en paralelo mediante el manejo de hilos,task,async,await y Task.run() para la ejecución de patrones de programación asincrónica.
+Creación de la clase persona y empresa. Uso de la programación en paralelo mediante el manejo de hilos,task,async,await y Task.run() para la ejecución de patrones de programación asincrónica. Se esta usando en las clases de Persona.cs y Empresa.cs, donde se usa el task, await y thread. Estos archivos están dentro de la carpeta modelos. Se esta ejecutando dentro del archivo llamado Program.cs, esta comentado la parte del código llamado programación en paralelo.
